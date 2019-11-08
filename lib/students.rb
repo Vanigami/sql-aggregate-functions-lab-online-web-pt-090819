@@ -1,4 +1,4 @@
-## Code your solution below. Note that your SQL queries should be in quotation marks. 
+## Code your solution below. Note that your SQL queries should be in quotation marks.
 
 def highest_student_gpa
   "SELECT max(gpa) as highest_gpa FROM students"
